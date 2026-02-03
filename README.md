@@ -1,4 +1,4 @@
-# Hi, I,m PETER BARASA
+# Hi, I'm PETER BARASA
 
 **Cloud-Native Backend & DevOps Engineer | Systems Engineer | DevSecOps Specialist**
 
