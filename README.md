@@ -1,16 +1,121 @@
-## Hi there 👋
+# Hi, I am Barasa Peter.
 
-<!--
-**barasapeter/barasapeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud-Native Backend & DevOps Engineer  
+💳 Building scalable, secure fintech & SaaS systems on AWS
 
-Here are some ideas to get you started:
+I design and build high-performance backend systems, cloud infrastructure, and DevOps pipelines with a strong focus on **security, scalability, and reliability**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- Backend & cloud-focused software engineer
+- Strong experience with **cloud-native architectures** and **microservices**
+- Passionate about **FinTech systems**, observability, and DevSecOps
+- Comfortable working across **development, deployment, and continuous Integration & development**
+- I enjoy taking systems from **design → deployment → monitoring, countinuous delivery**
+
+---
+
+## 🛠 Core Technology Stack
+
+### ☁️ Cloud & Infrastructure
+- **AWS:** EC2, ECS/EKS, Lambda, S3, RDS, DynamoDB, API Gateway, CloudWatch
+- **Infrastructure as Code:** Terraform
+- **Containerization:** Docker, Kubernetes
+
+### 🧩 Backend Engineering
+- **Languages:** Java (Spring Boot), Python (FastAPI), Node.js (Express/NestJS)
+- **Architectures:** Microservices, Event-Driven Systems
+- **Communication:** REST, GraphQL, gRPC
+- **API Documentation:** OpenAPI / Swagger
+
+### 🗄 Databases & Caching
+- **Relational:** PostgreSQL
+- **NoSQL:** MongoDB, DynamoDB
+- **Caching & Realtime:** Redis
+
+### 🔐 Security
+- OAuth2, JWT, API Keys
+- Role-Based Access Control (RBAC)
+- Secure coding practices, rate limiting
+- FinTech awareness: PCI-DSS, KYC/AML fundamentals
+
+### ⚙️ DevOps & CI/CD
+- GitHub Actions, Jenkins, GitLab CI
+- GitOps principles
+- Kubernetes-ready deployments
+- Linux server administration
+
+### 📊 Observability & Monitoring
+- Prometheus & Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- OpenTelemetry
+- Experience with AIOps concepts for RCA and anomaly detection
+
+### 🤖 AI Integration (Applied)
+- OpenAI APIs, Hugging Face
+- Deploying ML models with TorchServe / TensorFlow Serving
+- AI-powered features for monitoring and automation
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Secure Authentication & Authorization Service
+Production-ready authentication system designed for fintech-grade security.
+
+- JWT & OAuth2 authentication
+- Role-based access control
+- Spring Boot + PostgreSQL
+- Deployed on AWS behind Nginx
+- Designed with scalability and security in mind
+
+👉 Repo: _link here_
+
+---
+
+### ☁️ Cloud-Native Backend Platform
+A scalable backend platform demonstrating modern DevOps and cloud practices.
+
+- Microservices architecture
+- Docker & Kubernetes
+- CI/CD pipelines with GitHub Actions
+- Observability with Prometheus & Grafana
+
+👉 Repo: _link here_
+
+---
+
+### 📊 Observability & Monitoring Stack
+End-to-end monitoring and logging setup for production systems.
+
+- Metrics, logs, and traces
+- ELK + Prometheus + Grafana
+- Designed for proactive issue detection and RCA
+
+👉 Repo: _link here_
+
+---
+
+## 🧠 Engineering Mindset
+- Design first, code second
+- Architecture should evolve, not block delivery
+- Security and observability are non-negotiable
+- Prefer simple, scalable solutions over complexity
+- Strong believer in automation and DevSecOps
+
+---
+
+## 🎯 Career Focus
+I’m particularly interested in roles involving:
+- **FinTech platforms & payment systems**
+- **Cloud-native backend engineering**
+- **DevOps & platform engineering**
+- **Architecture-track roles in high-scale systems**
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/barasapeter
+- LinkedIn: https://linkedin.com/in/barasapeter2002
+- Email: barasapeter52@gmail.com
