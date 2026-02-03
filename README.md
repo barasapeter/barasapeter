@@ -1,13 +1,13 @@
-# Hi, I am Barasa Peter.
+# Hi, I am BARASA PETER.
 
-🚀 Cloud-Native Backend & DevOps Engineer  
-💳 Building scalable, secure fintech & SaaS systems on AWS
+Cloud-Native Backend & DevOps Engineer  
+Building scalable, secure fintech & SaaS systems on AWS
 
 I design and build high-performance backend systems, cloud infrastructure, and DevOps pipelines with a strong focus on **security, scalability, and reliability**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - Backend & cloud-focused software engineer
 - Strong experience with **cloud-native architectures** and **microservices**
 - Passionate about **FinTech systems**, observability, and DevSecOps
@@ -16,52 +16,52 @@ I design and build high-performance backend systems, cloud infrastructure, and D
 
 ---
 
-## 🛠 Core Technology Stack
+## Core Technology Stack
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 - **AWS:** EC2, ECS/EKS, Lambda, S3, RDS, DynamoDB, API Gateway, CloudWatch
 - **Infrastructure as Code:** Terraform
 - **Containerization:** Docker, Kubernetes
 
-### 🧩 Backend Engineering
+### Backend Engineering
 - **Languages:** Java (Spring Boot), Python (FastAPI), Node.js (Express/NestJS)
 - **Architectures:** Microservices, Event-Driven Systems
 - **Communication:** REST, GraphQL, gRPC
 - **API Documentation:** OpenAPI / Swagger
 
-### 🗄 Databases & Caching
+### Databases & Caching
 - **Relational:** PostgreSQL
 - **NoSQL:** MongoDB, DynamoDB
 - **Caching & Realtime:** Redis
 
-### 🔐 Security
+### Security
 - OAuth2, JWT, API Keys
 - Role-Based Access Control (RBAC)
 - Secure coding practices, rate limiting
 - FinTech awareness: PCI-DSS, KYC/AML fundamentals
 
-### ⚙️ DevOps & CI/CD
+### DevOps & CI/CD
 - GitHub Actions, Jenkins, GitLab CI
 - GitOps principles
 - Kubernetes-ready deployments
 - Linux server administration
 
-### 📊 Observability & Monitoring
+### Observability & Monitoring
 - Prometheus & Grafana
 - ELK Stack (Elasticsearch, Logstash, Kibana)
 - OpenTelemetry
 - Experience with AIOps concepts for RCA and anomaly detection
 
-### 🤖 AI Integration (Applied)
+### AI Integration (Applied)
 - OpenAI APIs, Hugging Face
 - Deploying ML models with TorchServe / TensorFlow Serving
 - AI-powered features for monitoring and automation
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Secure Authentication & Authorization Service
+### Secure Authentication & Authorization Service
 Production-ready authentication system designed for fintech-grade security.
 
 - JWT & OAuth2 authentication
@@ -70,11 +70,11 @@ Production-ready authentication system designed for fintech-grade security.
 - Deployed on AWS behind Nginx
 - Designed with scalability and security in mind
 
-👉 Repo: _link here_
+Repo: _IN PROGRESS_
 
 ---
 
-### ☁️ Cloud-Native Backend Platform
+### Cloud-Native Backend Platform
 A scalable backend platform demonstrating modern DevOps and cloud practices.
 
 - Microservices architecture
@@ -82,7 +82,7 @@ A scalable backend platform demonstrating modern DevOps and cloud practices.
 - CI/CD pipelines with GitHub Actions
 - Observability with Prometheus & Grafana
 
-👉 Repo: _link here_
+Repo: _IN PROGRESS_
 
 ---
 
@@ -93,11 +93,11 @@ End-to-end monitoring and logging setup for production systems.
 - ELK + Prometheus + Grafana
 - Designed for proactive issue detection and RCA
 
-👉 Repo: _link here_
+Repo: _IN PROGRESS_
 
 ---
 
-## 🧠 Engineering Mindset
+## Engineering Mindset
 - Design first, code second
 - Architecture should evolve, not block delivery
 - Security and observability are non-negotiable
@@ -106,16 +106,16 @@ End-to-end monitoring and logging setup for production systems.
 
 ---
 
-## 🎯 Career Focus
-I’m particularly interested in roles involving:
-- **FinTech platforms & payment systems**
+## Career Focus
+I am passionately interested in roles involving:
+- **SaaS platforms**
 - **Cloud-native backend engineering**
 - **DevOps & platform engineering**
 - **Architecture-track roles in high-scale systems**
+- **System Design**
 
 ---
 
-## 📫 Let’s Connect
 - GitHub: https://github.com/barasapeter
 - LinkedIn: https://linkedin.com/in/barasapeter2002
 - Email: barasapeter52@gmail.com
