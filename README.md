@@ -1,4 +1,4 @@
-# PETER BARASA
+# Hi, I'm PETER BARASA
 
 Cloud-Native Backend & DevOps Engineer  
 Building scalable, secure fintech & SaaS systems on AWS
