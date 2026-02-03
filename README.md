@@ -24,13 +24,13 @@ I design and build high-performance backend systems, cloud infrastructure, and D
 - **Containerization:** Docker, Kubernetes
 
 ### Backend Engineering
-- **Languages:** Java (Spring Boot), Python (FastAPI), Node.js (Express/NestJS)
+- **Languages:** Java (Spring Boot), Python (FastAPI, Flask, Django, Tonardo), Node.js (Express/NestJS)
 - **Architectures:** Microservices, Event-Driven Systems
 - **Communication:** REST, GraphQL, gRPC
 - **API Documentation:** OpenAPI / Swagger
 
 ### Databases & Caching
-- **Relational:** PostgreSQL
+- **Relational:** PostgreSQL, MySQL
 - **NoSQL:** MongoDB, DynamoDB
 - **Caching & Realtime:** Redis
 
@@ -86,7 +86,7 @@ Repo: _IN PROGRESS_
 
 ---
 
-### 📊 Observability & Monitoring Stack
+### Observability & Monitoring Stack
 End-to-end monitoring and logging setup for production systems.
 
 - Metrics, logs, and traces
