@@ -1,4 +1,4 @@
-# Peter Barasa
+# Hi, I,m PETER BARASA
 
 **Cloud-Native Backend & DevOps Engineer | Systems Engineer | DevSecOps Specialist**
 
@@ -8,34 +8,32 @@ I design and build high-performance backend systems, cloud infrastructure, and D
 
 ---
 
-## 🎯 Engineering Philosophy
+## My Engineering Philosophy
 
-I architect and build **mission-critical fintech systems** where **99.99% uptime isn't optional**—it's baseline. My work spans the full spectrum: from designing **microservices architectures** for mobile payment platforms to implementing **DevSecOps pipelines** that deploy secure, observable systems at scale.
+I create and develop **mission-critical finance technology** systems precisely because **99.99% uptime is simply the starting point**. My projects utilize various architectural styles, including building **micro-service architectures** for systems and **implementing secure, observable, and scalable** development pipelines through **DevSecOps**.
 
-**What drives me:**
-- Building systems that handle **millions of transactions daily** with sub-second latency
-- Architecting **cloud-native solutions** that scale horizontally without architectural rewrites
-- Implementing **security-first designs** compliant with PCI-DSS, KYC/AML, and ISO 27001
-- Creating **observable systems** where issues are detected before users notice them
-- Empowering teams through **Infrastructure as Code** and **GitOps** workflows
+*My motivation is to create architectures for:*
+- Infrastructure that can earn and support **millions of user requests** with less than 1 second delay.
+- Cloud technology that can be used without having to change the current system if it needs to grow in size.
+- Security and privacy plans that use the most up-to-date standards as identified by PCI-DSS, KYC/AML, and ISO 27001.
+- Systems that have capabilities to monitor themselves so that potential problems will be discovered **before** a customer experiences them.
+- Provide teams with tools that allow them to write **infrastructure code** and create a workflow to deploy it using **GitOps**.
 
 ---
 
-## 💼 Target Impact Areas
+## Target Impact Areas
 
 I'm actively pursuing roles in:
 
 - **Senior Software Architecture** (Mobile Payments, Super Apps, API-First Platforms)
-- **Cloud Solutions Architecture** (AWS/Azure/GCP for Financial Services)
+- **Cloud Native Architecture** (AWS/Azure/GCP for Financial Services)
 - **DevSecOps Engineering** (CI/CD, Observability, Security Automation)
 - **Backend Engineering** (High-traffic, Scalable SaaS & FinTech Systems)
 - **Platform Engineering** (Developer Experience, Infrastructure Automation)
 
-**Geographic Focus:** Kenya & East Africa | Open to Remote | Hybrid-friendly
-
 ---
 
-## 🏗️ Architecture & System Design Expertise
+## Architecture & System Design Expertise
 
 ### Cloud-Native Architecture
 - **Microservices orchestration** with service mesh patterns (Istio, Linkerd)
@@ -60,25 +58,25 @@ I'm actively pursuing roles in:
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### **Cloud Platforms & Infrastructure**
 ```
-☁️  AWS (Primary): EC2, ECS/EKS, Lambda, S3, RDS, DynamoDB, CloudWatch, API Gateway
+  AWS (Primary): EC2, ECS/EKS, Lambda, S3, RDS, DynamoDB, CloudWatch, API Gateway
     - Designing multi-AZ, fault-tolerant architectures
     - Cost optimization through right-sizing and reserved capacity
     - Security groups, IAM policies, VPC design
 
-🌐  Azure: IAM, Security Groups, VPC, WAF, CSPM, Cloud Workload Protection
+  Azure: IAM, Security Groups, VPC, WAF, CSPM, Cloud Workload Protection
     - Shared responsibility model implementation
     - Privileged Access Management (PAM)
 
-🏗️  Infrastructure as Code: Terraform, Pulumi, CloudFormation
+  Infrastructure as Code: Terraform, Pulumi, CloudFormation
     - Modularized, reusable IaC templates
     - State management and drift detection
     - Multi-environment provisioning (dev/staging/prod)
 
-🐳  Containerization: Docker, Kubernetes (EKS, OpenShift), Helm
+  Containerization: Docker, Kubernetes (EKS, OpenShift), Helm
     - Deployment strategies: blue-green, canary, rolling updates
     - Resource optimization and auto-scaling policies
     - Service mesh integration for observability
@@ -86,26 +84,26 @@ I'm actively pursuing roles in:
 
 ### **Backend Engineering & APIs**
 ```
-☕  Java Ecosystem: Spring Boot, Spring Cloud, Hibernate
+  Java Ecosystem: Spring Boot, Spring Cloud, Hibernate
     - Building RESTful microservices with circuit breakers (Resilience4j)
     - Async processing with Spring WebFlux
     - Transaction management across distributed systems
 
-🐍  Python Stack: FastAPI, Django, Flask, Tornado
+  Python Stack: FastAPI, Django, Flask, Tornado
     - High-performance async APIs (10k+ req/sec benchmarks)
     - Background task processing with Celery, Redis
     - ML model serving with FastAPI
 
-🟢  Node.js: Express, NestJS
+  Node.js: Express, NestJS
     - Real-time features with WebSockets, Server-Sent Events
     - Middleware-based authentication/authorization
     - Event-driven architectures with message queues
 
-🚀  Performance Engineering: Go, Rust (learning)
+  Performance Engineering: Go, Rust (learning)
     - Low-latency microservices for payment processing
     - gRPC for inter-service communication
 
-📡  API Design: REST, GraphQL (Apollo), gRPC, OpenAPI/Swagger
+  API Design: REST, GraphQL (Apollo), gRPC, OpenAPI/Swagger
     - API versioning strategies, backward compatibility
     - Rate limiting, throttling, and quota management
     - Comprehensive documentation with code examples
@@ -113,12 +111,12 @@ I'm actively pursuing roles in:
 
 ### **Databases & Data Layers**
 ```
-🐘  PostgreSQL: Advanced SQL, indexing strategies, stored procedures
+  PostgreSQL: Advanced SQL, indexing strategies, stored procedures
     - Query optimization for high-transaction systems
     - Replication (master-slave, multi-master)
     - JSONB for semi-structured data
 
-📊  NoSQL: MongoDB, DynamoDB, Cassandra
+  NoSQL: MongoDB, DynamoDB, Cassandra
     - Schema design for horizontal scalability
     - Partition key strategies for DynamoDB
     - Change Data Capture (CDC) patterns
@@ -128,7 +126,7 @@ I'm actively pursuing roles in:
     - Pub/sub for real-time notifications
     - Session management and rate limiting
 
-📨  Messaging Systems: Kafka, RabbitMQ, AWS SQS/SNS
+  Messaging Systems: Kafka, RabbitMQ, AWS SQS/SNS
     - Event sourcing and CQRS patterns
     - Dead letter queues and retry mechanisms
     - Exactly-once delivery guarantees
@@ -136,23 +134,23 @@ I'm actively pursuing roles in:
 
 ### **DevSecOps & CI/CD**
 ```
-🔄  CI/CD Pipelines: GitHub Actions, GitLab CI, Jenkins, Tekton
+  CI/CD Pipelines: GitHub Actions, GitLab CI, Jenkins, Tekton
     - Multi-stage builds (test → security scan → deploy)
     - Automated rollback on deployment failures
     - Feature flagging for progressive rollouts
 
-🔐  Security Automation:
+  Security Automation:
     - SonarQube, Checkmarx for code quality & vulnerability scanning
     - Snyk, Trivy for container image scanning
     - OWASP Dependency-Check for supply chain security
     - Automated secrets scanning (git-secrets, TruffleHog)
 
-📦  GitOps: FluxCD, ArgoCD
+  GitOps: FluxCD, ArgoCD
     - Declarative infrastructure management
     - Automated sync from Git → Kubernetes
     - Environment promotion workflows
 
-🐧  Linux Administration: Ubuntu, RHEL, CentOS
+  Linux Administration: Ubuntu, RHEL, CentOS
     - Shell scripting (Bash, Python, Groovy)
     - System hardening, firewall rules (iptables, firewalld)
     - Process monitoring and performance tuning
@@ -160,55 +158,55 @@ I'm actively pursuing roles in:
 
 ### **Observability & Site Reliability**
 ```
-📊  Metrics: Prometheus, Grafana, Datadog, New Relic, Dynatrace
+  Metrics: Prometheus, Grafana, Datadog, New Relic, Dynatrace
     - Custom metrics and alerting rules
     - SLI/SLO/SLA definition and tracking
     - Business metrics dashboards (transaction success rates, latency percentiles)
 
-🔍  Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
+  Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
     - Centralized log aggregation
     - Log correlation for distributed tracing
     - Anomaly detection with ML-powered alerts
 
-🔗  Distributed Tracing: OpenTelemetry, Jaeger, Zipkin
+  Distributed Tracing: OpenTelemetry, Jaeger, Zipkin
     - Request flow visualization across microservices
     - Latency bottleneck identification
     - Context propagation in async systems
 
-🤖  AIOps: Machine Learning for RCA, anomaly detection, predictive alerting
+  AIOps: Machine Learning for RCA, anomaly detection, predictive alerting
     - Classification/clustering algorithms for log analysis
     - Automated incident correlation
 ```
 
 ### **Security & Identity Management**
 ```
-🔑  Authentication & Authorization:
+  Authentication & Authorization:
     - OAuth2/OIDC, SAML, JWT, API Keys
     - Role-Based Access Control (RBAC), Attribute-Based (ABAC)
     - Multi-factor authentication (MFA) integration
 
-🛡️  Security Tools:
+  Security Tools:
     - Firewalls: Next-Gen (Palo Alto, Fortinet), AWS WAF
     - IDS/IPS: Snort, Suricata
     - Privileged Access Management (PAM): CyberArk, BeyondTrust
     - Vulnerability scanners: Nessus, Qualys, OpenVAS
 
-🔒  Compliance & Governance:
+  Compliance & Governance:
     - ISO 27001, NIST Framework, CIS Controls
     - PCI-DSS payment security standards
     - GDPR data protection principles
     - Audit trail logging and evidence collection
 ```
 
-### **AI/ML Integration (Applied Focus)**
+### **AI/ML Integration**
 ```
-🤖  Model Deployment:
+  Model Deployment:
     - OpenAI APIs, Hugging Face Transformers
     - TensorFlow Serving, TorchServe, ONNX Runtime
     - Model versioning and A/B testing
     - ML-powered features: fraud detection, chatbots, recommendations
 
-📈  ML for Operations:
+  ML for Operations:
     - Predictive scaling based on traffic patterns
     - Anomaly detection in system metrics
     - Automated incident classification
@@ -216,10 +214,10 @@ I'm actively pursuing roles in:
 
 ---
 
-## 🚀 Featured Projects & Implementations
+##  Featured Projects & Implementations
 
-### 🏦 **Enterprise FinTech Authentication Service**
-*Production-grade authentication for payment systems handling 100k+ daily active users*
+###  **Enterprise FinTech Authentication Service**
+*Production-grade authentication for systems handling 100k+ daily active users*
 
 **Architecture:**
 - **Spring Boot** microservice with JWT + OAuth2 flows
@@ -239,11 +237,11 @@ I'm actively pursuing roles in:
 - Distributed tracing with OpenTelemetry
 - Grafana dashboards for real-time monitoring
 
-📂 **Status:** In active development | [View Repo](#) (Coming Soon)
+ **Status:** In active development | [View Repo](#) (In progress)
 
 ---
 
-### ☁️ **Cloud-Native E-Commerce Platform**
+###  **Cloud-Native E-Commerce Platform**
 *Scalable microservices architecture demonstrating DevOps excellence*
 
 **Tech Stack:**
@@ -264,11 +262,11 @@ I'm actively pursuing roles in:
 - Jaeger for distributed tracing
 - Custom SLO tracking (99.9% uptime, <500ms p95 latency)
 
-📂 **Status:** 70% complete | [View Repo](#) (Coming Soon)
+ **Status:** 70% complete | [View Repo](#) (Coming Soon)
 
 ---
 
-### 📊 **Production Observability Platform**
+###  **Production Observability Platform**
 *End-to-end monitoring solution for microservices environments*
 
 **Components:**
@@ -284,11 +282,11 @@ I'm actively pursuing roles in:
 - Log correlation with trace IDs
 - Cost analysis dashboards (AWS CloudWatch costs per service)
 
-📂 **Status:** 60% complete | [View Repo](#) (Coming Soon)
+ **Status:** 60% complete | [View Repo](#) (Coming Soon)
 
 ---
 
-### 🔐 **DevSecOps Pipeline Template**
+###  **DevSecOps Pipeline Template**
 *Reusable CI/CD pipeline with security-first approach*
 
 **Pipeline Stages:**
@@ -305,17 +303,17 @@ I'm actively pursuing roles in:
 
 **Tools:** GitHub Actions, SonarQube, Trivy, ArgoCD
 
-📂 **Status:** Template ready | [View Repo](#) (Coming Soon)
+ **Status:** Template ready | [View Repo](#) (Coming Soon)
 
 ---
 
-## 📚 Continuous Learning & Certifications
+## Continuous Learning & Certifications
 
 **Pursuing (2025):**
-- ☁️ AWS Certified Solutions Architect – Professional
-- 🔒 Certified Information Systems Security Professional (CISSP)
-- 🏗️ TOGAF 9 Certified (Enterprise Architecture)
-- ☸️ Certified Kubernetes Administrator (CKA)
+-  AWS Certified Solutions Architect – Professional
+-  Certified Information Systems Security Professional (CISSP)
+-  TOGAF 9 Certified (Enterprise Architecture)
+-  Certified Kubernetes Administrator (CKA)
 
 **Active Learning:**
 - SAFe Agile Framework (for enterprise architecture roles)
@@ -325,7 +323,7 @@ I'm actively pursuing roles in:
 
 ---
 
-## 🌍 Domain Expertise: FinTech & Payments
+##  Domain Expertise: FinTech & Payments
 
 **Understanding of:**
 - Mobile money ecosystems (M-Pesa, Airtel Money architecture)
@@ -342,7 +340,7 @@ I'm actively pursuing roles in:
 
 ---
 
-## 💡 Engineering Principles
+##  Engineering Principles
 
 **Architecture:**
 - Start with **Minimum Viable Architecture**—build runway incrementally
@@ -367,9 +365,9 @@ I'm actively pursuing roles in:
 
 ---
 
-## 🎓 Education & Background
+##  Education & Background
 
-**Bachelor's Degree in Computer Science / Software Engineering**  
+**Bachelor's Degree in Computer Science**  
 *Relevant coursework: Data Structures, Algorithms, Database Systems, Network Security, Software Engineering*
 
 **Professional Experience:**
@@ -380,9 +378,9 @@ I'm actively pursuing roles in:
 
 ---
 
-## 📫 Let's Connect
+## LetsConnect
 
-I'm passionate about building technology that drives **financial inclusion** and **economic empowerment** in Africa. If you're working on:
+I'm passionate about building technology that drives **financial inclusion** and **economic empowerment**. If you're working on:
 
 - Mobile payment platforms or super apps
 - Cloud-native SaaS products at scale
@@ -391,14 +389,14 @@ I'm passionate about building technology that drives **financial inclusion** and
 
 **I'd love to collaborate!**
 
-- 💼 [LinkedIn](https://linkedin.com/in/barasapeter2002)
-- 🐙 [GitHub](https://github.com/barasapeter)
-- 📧 [barasapeter52@gmail.com](mailto:barasapeter52@gmail.com)
-- 📍 Nairobi, Kenya | Open to Remote/Hybrid
+-  [LinkedIn](https://linkedin.com/in/barasapeter2002)
+-  [GitHub](https://github.com/barasapeter)
+-  [barasapeter52@gmail.com](mailto:barasapeter52@gmail.com)
+-  Nairobi, Kenya | Open to Remote/Hybrid
 
 ---
 
-### 🔖 Quick Reference
+###  Quick Reference
 
 **Primary Skills:** Cloud Architecture | Backend Engineering | DevSecOps | FinTech Systems  
 **Cloud:** AWS (expert), Azure (intermediate)  
