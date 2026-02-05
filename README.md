@@ -1,8 +1,8 @@
 ### Hey, I'm Barasa! 👋
 
 ❣️ Passionate software engineer <br>
-🇧🇷 Born in Kitale, Kenya <br>
-:it: Living in Nairobi
+ Born in Kitale, Kenya <br>
+:ke: Living in Nairobi
 
 ### My interests are golang and kubernetes 💙👨‍💻
 
