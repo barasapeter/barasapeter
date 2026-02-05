@@ -14,7 +14,7 @@
 
 ### Find me elsewhere 🌎
 
-Portfolio & Personal Blog (https://barasa.dev) <br>
-X (https://twitter.com/devilmusk) <br>
-Instagram https://instagram.com/not_so_personal_lol.dev <br>
-LinkedIn (https://www.linkedin.com/in/barasapeter200245) <br>
+1. [Portfolio & Personal Blog](https://barasa.dev) <br>
+2. [X](https://twitter.com/devilmusk) <br>
+3. [Instagram](https://instagram.com/not_so_personal_lol.dev) <br>
+4. [LinkedIn](https://www.linkedin.com/in/barasapeter200245) <br>
