@@ -2,7 +2,7 @@
 
 ❣️ Passionate software engineer <br>
  Born in Kitale, Kenya <br>
-:ke: Living in Nairobi
+🇰🇪 Living in Nairobi
 
 ### My interests are golang and kubernetes 💙👨‍💻
 
