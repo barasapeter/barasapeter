@@ -4,7 +4,7 @@
  Born in Kitale, Kenya <br>
 🇰🇪 Living in Nairobi
 
-### My interests are golang and kubernetes 💙👨‍💻
+### My interests are Cloud and Terraform 💙
 
 ### What can I do?
 
