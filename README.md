@@ -14,7 +14,7 @@
 
 ### Find me elsewhere 🌎
 
-1. [Portfolio & Personal Blog](http://localhost:8000) <br>
+1. [Portfolio & Personal Blog](https://cardlabs.cloud) <br>
 2. [X-Twitter](https://twitter.com/devilmusk) <br>
 3. [Instagram](https://instagram.com/not_so_personal_lol.dev) <br>
 4. [LinkedIn](https://www.linkedin.com/in/barasapeter200245) <br>
