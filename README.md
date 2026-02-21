@@ -1,7 +1,7 @@
 ### Hey, I'm Barasa! 👋
 
 ☁️ Cloud-Native Backend & DevOps Engineer <br>
-❣️ Passionate software engineer
+
 Born and raised in Kitale, Kenya
 🇰🇪 Living in Nairobi
 
