@@ -10,10 +10,10 @@
 
 - CLI's
 - Design and deploy cloud-native systems with Kubernetes  
-- Build high-performance REST, gRPC, GraphQL, WebSockets APIs 
+- Build high-performance `REST`, `gRPC`, `GraphQL` and `WebSockets` APIs 
 - Write Infrastructure as Code using Terraform and Pulumi  
 - Extend Kubernetes (operators, plugins, Helm, GitOps with ArgoCD)  
-- Implement end-to-end security (Zero Trust, PCI-DSS, DevSecOps pipelines)  
+- Implement end-to-end security (`Zero Trust`, `PCI-DSS`, `DevSecOps` pipelines)  
 
 ### Find me elsewhere 🌎
 
