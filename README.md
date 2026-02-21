@@ -16,12 +16,13 @@ Born and raised in Kitale, Kenya
 - Extend k8s (operators, plugins, Helm, GitOps with ArgoCD)
 - Secure systems end-to-end (Zero Trust, PCI-DSS, DevSecOps pipelines)
 
-# Best Work
+### Sample Work
 Heavily scaled File System for Group Printing & Coordination.
 <br>
 [Code & infrastructure Repository](https://github.com/barasapeter/cardlabs-ke.git)
 <br>
-[Live Beta Version](https://beta.cardlabs.cloud)
+<br>
+[Live Version (beta)](https://beta.cardlabs.cloud)
 
 #### And so much more. check out my other work at [Portfolio](https://cardlabs.cloud) and pinned 👇
 
