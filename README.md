@@ -3,6 +3,7 @@
 ☁️ Cloud-Native Backend & DevOps Engineer <br>
 
 Born and raised in Kitale, Kenya
+<br>
 🇰🇪 Living in Nairobi
 
 ### I build infrastructure that doesn't sleep 💙
