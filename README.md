@@ -1,16 +1,19 @@
 ### Hey, I'm Barasa! 👋
 
-❣️ Passionate software engineer <br>
- Born and raised in Kitale, Kenya <br>
+☁️ Cloud-Native Backend & DevOps Engineer <br>
+❣️ Passionate software engineer
+Born and raised in Kitale, Kenya
 🇰🇪 Living in Nairobi
 
-### My interests are Cloud and Terraform 💙
+### I build infrastructure that doesn't sleep 💙
 
 ### What can I do?
 
-- CLI's
-- Extend k8s (with operators, plugins, etc)
-- RESTful API's
+- Design and deploy cloud-native systems with Kubernetes
+- Build high-performance APIs (REST, gRPC, GraphQL, Web Sockets)
+- Write Infrastructure as Code with Terraform & Pulumi
+- Extend k8s (operators, plugins, Helm, GitOps with ArgoCD)
+- Secure systems end-to-end (Zero Trust, PCI-DSS, DevSecOps pipelines)
 
 ### Find me elsewhere 🌎
 
