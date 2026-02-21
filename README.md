@@ -9,8 +9,11 @@
 ### What can I do?
 
 - CLI's
-- Extend k8s (with operators, plugins, etc)
-- RESTful API's
+- Design and deploy cloud-native systems with Kubernetes  
+- Build high-performance REST, gRPC, GraphQL, WebSockets APIs 
+- Write Infrastructure as Code using Terraform and Pulumi  
+- Extend Kubernetes (operators, plugins, Helm, GitOps with ArgoCD)  
+- Implement end-to-end security (Zero Trust, PCI-DSS, DevSecOps pipelines)  
 
 ### Find me elsewhere 🌎
 
