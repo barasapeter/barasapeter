@@ -1,9 +1,11 @@
 ### Hey, I'm Barasa! 👋
 
-☁️❣️Cloud-Native Backend and DevSecOps Engineer<br>
+**☁️ Cloud-Native Backend and DevSecOps Engineer**
+<br>
 
 Born and raised in Kitale, Kenya
-<br><br>
+<br>
+<br>
 🇰🇪 Living in Nairobi
 
 ### My interests are Cloud and Terraform 💙
