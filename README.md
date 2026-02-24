@@ -1,6 +1,6 @@
 ### Hey, I'm Barasa! 👋
 
-**☁️ Cloud-Native Backend and DevOpts Engineer**
+**☁️ Cloud-Native Backend and DevOps Engineer**
 <br>
 
 Born and raised in Kitale, Kenya
