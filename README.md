@@ -1,4 +1,4 @@
-### Hey, I'm Barasa
+### I'm Peter barasa
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 <br>
@@ -19,7 +19,7 @@ Born and raised in Kitale, Kenya
 - Extend Kubernetes (operators, plugins, Helm, GitOps with ArgoCD)  
 - Implement end-to-end security (`Zero Trust`, `PCI-DSS`, `DevSecOps` pipelines)  
 
-### Find me elsewhere 🌎
+### Find me elsewhere 
 
 1. [Portfolio](https://cardlabs.cloud) <br>
 2. [X-Twitter](https://twitter.com/devilmusk) <br>
