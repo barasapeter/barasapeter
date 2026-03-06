@@ -1,4 +1,4 @@
-### Hey, I'm Barasa! 👋
+### Hey, I'm Barasa
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 <br>
