@@ -1,4 +1,4 @@
-### I'm Peter barasa
+### I'm Peter Barasa
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 <br>
