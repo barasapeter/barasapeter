@@ -1,4 +1,3 @@
-*Kind heads up: I don't ship slop here. All the work in this page is carefully engineered, every decision accounted for and code reviewed by humans.*
 ### I'm Peter Barasa
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
