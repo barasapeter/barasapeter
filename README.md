@@ -2,7 +2,9 @@
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 <br>
-disciplined, security-fixated systems thinker inspired less by novelty and more by reliability, strictness and real-world financial punch. the kind of engineer who would rather over-engineer resilience than risk a 3am outage.
+
+*A disciplined, security-fixated systems thinker inspired less by novelty and more by reliability, strictness and real-world financial punch. the kind of engineer who would rather over-engineer resilience than risk a 3am outage.*
+
 <br>
 <br>
 🇰🇪 Living in Nairobi
