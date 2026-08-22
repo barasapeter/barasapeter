@@ -2,7 +2,7 @@
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 
-* U+201C A disciplined, security-fixated systems thinker inspired less by novelty and more by reliability, strictness and real-world financial punch. the kind of engineer who would rather over-engineer resilience than risk a 3am outage.*
+Security-fixated systems thinker inspired less by novelty and more by reliability, strictness and real-world financial punch. the kind of engineer who would rather over-engineer resilience than risk a 3am outage.
 
 🇰🇪 Living in Nairobi. My interests are Cloud and Terraform.
 
