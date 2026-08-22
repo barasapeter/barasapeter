@@ -1,14 +1,10 @@
 ### I'm Peter Barasa
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
-<br>
 
 *A disciplined, security-fixated systems thinker inspired less by novelty and more by reliability, strictness and real-world financial punch. the kind of engineer who would rather over-engineer resilience than risk a 3am outage.*
 
-<br>
-🇰🇪 Living in Nairobi
-
-### My interests are Cloud and Terraform 💙
+🇰🇪 Living in Nairobi ☁️ My interests are Cloud and Terraform 💙
 
 ### What can I do?
 
