@@ -2,7 +2,7 @@
 
 **☁️ Cloud-Native Backend and DevSecOps Engineer**
 
-The kind of engineer who would rather over-engineer resilience than risk a 3am outage.
+Kind of engineer who would rather over-engineer resilience than risk a 3am outage.
 
 🇰🇪 Living in Nairobi. My interests are Cloud and Terraform.
 
