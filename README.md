@@ -4,16 +4,15 @@
 
 Kind of engineer who would rather over-engineer resilience than risk a 3am outage.
 
-🇰🇪 Living in Nairobi. My interests are Cloud and Terraform.
+Living in Nairobi. My interests are Cloud, Terraform and Distributed Systems.
 
 ### What can I do?
-
-* CLI's
 * Design and deploy cloud-native systems with Kubernetes
 * Build high-performance `REST`, `gRPC`, `GraphQL` and `WebSockets` APIs
 * Write Infrastructure as Code using Terraform and Pulumi
 * Extend Kubernetes (operators, plugins, Helm, GitOps with ArgoCD)
 * Implement end-to-end security (`Zero Trust`, `PCI-DSS`, `DevSecOps` pipelines)
+* CLI's
 
 ### My current work
 
